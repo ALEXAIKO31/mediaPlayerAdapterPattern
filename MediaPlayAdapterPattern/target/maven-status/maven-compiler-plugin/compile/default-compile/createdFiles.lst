@@ -1,0 +1,7 @@
+advancedMediaPlayer\implementation\VlcPlayer.class
+advancedMediaPlayer\implementation\Mp4Player.class
+mediaPlayer\implementation\MediaAdapter.class
+advancedMediaPlayer\AdvancedMediaPlayer.class
+mediaPlayer\implementation\AudioPlayer.class
+mediaPlayer\MediaPlayer.class
+AdapterPatternDemo.class
